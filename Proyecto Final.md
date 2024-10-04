@@ -45,4 +45,37 @@ Sistema de control de versiones utilizado para gestionar el código fuente del p
 GitHub/GitLab:
 Plataformas utilizadas para alojar el repositorio del proyecto, permitiendo compartir el código con otros desarrolladores y mantener un historial de versiones.
 
+6. Recursos Gráficos
+Iconos y Elementos Gráficos:
+Se pueden utilizar bibliotecas de iconos gratuitas (como Material Icons) para mejorar la apariencia de la interfaz y hacerla más intuitiva. 
+
+## Requisitos Minimos
+
+1.Software:
+
+Android Studio Koala: La última versión del IDE debe estar instalada para facilitar el desarrollo de aplicaciones Android.
+Java Development Kit (JDK): Versión 8 o superior, necesaria para compilar y ejecutar aplicaciones Java.
+Android SDK: Debe incluir el SDK de Android con una versión mínima de API 21 (Android 5.0 Lollipop) o superior para garantizar la compatibilidad con la mayoría de los dispositivos.
+
+3.Hardware:
+
+PC: Un ordenador con al menos 4 GB de RAM (se recomiendan 8 GB o más para un rendimiento óptimo).
+Procesador: Un procesador de 64 bits que soporte virtualización, lo que es esencial para ejecutar el emulador de Android de manera eficiente.
+Espacio en disco: Mínimo 2 GB de espacio libre en el disco duro para instalar Android Studio y las herramientas necesarias.
+
+5.Conectividad:
+
+Una conexión a Internet para descargar dependencias, bibliotecas adicionales y actualizaciones desde Android Studio, así como para acceder a recursos de aprendizaje y documentación.
+
+## flujo de software
+El flujo de software describe cómo interactúa el usuario con la aplicación de la calculadora científica y cómo se procesan las entradas y salidas en el sistema. A continuación, se detalla el flujo de trabajo desde el inicio hasta la finalización de una operación matemática.
+Se puede representar este flujo de software gráficamente a través de un diagrama de flujo que ilustra las interacciones del usuario y los procesos internos. Esto puede ayudar a comprender mejor el flujo de trabajo y las decisiones que toma el software.
+El flujo de software para la calculadora científica en Android Studio Koala está diseñado para ser intuitivo y eficiente, facilitando la interacción del usuario con la aplicación. Al proporcionar un proceso claro desde la entrada de datos hasta el cálculo y la visualización de resultados, se busca ofrecer una experiencia de usuario fluida y sin interrupciones.
+
+## Notas Adicionales 
+
+Es recomendable utilizar un dispositivo real para probar la aplicación, además de utilizar el emulador, ya que esto permite verificar el rendimiento y la experiencia de usuario en condiciones reales.
+Asegurarse de que todos los controladores del dispositivo estén instalados correctamente si se está utilizando un dispositivo físico para pruebas.
+
+
 
